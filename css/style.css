@@ -1,0 +1,7 @@
+*{box-sizing:border-box;}
+body{margin:20px;padding:10px;font-family:Arial,sans-serif;}
+#titulo{text-align:center;margin-bottom:20px;color:#333;}
+.texto{margin-bottom:20px;color:#333;line-height:1.5;}
+.formulario{border:1px solid #333;padding:20px;background-color:#f9f9f9;}
+input,select,textarea{width:100%;padding:8px;margin-top:5px;margin-bottom:15px;border:1px solid #ccc;}
+input[type="submit"],input[type="reset"]{width:auto;padding:10px 15px;margin-right:10px;cursor:pointer;}
